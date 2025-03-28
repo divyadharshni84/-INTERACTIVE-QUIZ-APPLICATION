@@ -57,6 +57,6 @@ Customer Engagement on Websites: Companies can add fun trivia quizzes on their w
 
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/e21ff01b-3a8f-4109-b1fe-920359790f1c)
-![Image](https://github.com/user-attachments/assets/e3f89fce-606e-427e-ad28-d366d06c0b71)
+![Image](https://github.com/user-attachments/assets/1d0a502b-7088-4dd3-baea-452e8e84cd6b)
 
 
