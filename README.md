@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-Interactive Quiz Application – Task Description
+#Interactive Quiz Application – Task Description
 Introduction
 The Interactive Quiz Application is a web-based project designed to provide a seamless and dynamic quiz experience. This task was part of the internship at CODTECH IT Solutions, under the Front-End Development domain, with Neela Santosh as the mentor. The goal of this project was to develop a fully functional quiz application with a modern, user-friendly interface, dynamic question loading, and score tracking capabilities. The project was built using core front-end web technologies and was structured with best practices to ensure clean, maintainable, and responsive code.
 
@@ -48,6 +48,10 @@ The final version was pushed to GitHub, making it accessible and easy to share. 
 The Interactive Quiz Application has several real-world applications, including:
 E-learning Platforms: This application can be easily integrated into online learning management systems (LMS). It can be used to create quizzes for educational courses, helping teachers assess student knowledge interactively.
 Employee Training and Assessment: Companies can use this application for employee skill assessment, onboarding, and periodic evaluations.
+
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/e21ff01b-3a8f-4109-b1fe-920359790f1c)
+![Image](https://github.com/user-attachments/assets/e3f89fce-606e-427e-ad28-d366d06c0b71)
 Online Competitions: The application can be customized for online competitions or trivia games. It can be further enhanced with a leaderboard to display top scores.
 Product or Service Knowledge Tests: Businesses can use this application to test customer or employee knowledge about products, services, or company policies.
 Interview Screening: The quiz can be tailored for technical assessments to pre-screen candidates by asking programming or domain-related questions.
