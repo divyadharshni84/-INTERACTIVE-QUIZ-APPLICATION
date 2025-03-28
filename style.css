@@ -1,0 +1,112 @@
+/* Global styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Background gradient */
+body {
+    height: 100vh;
+    background: linear-gradient(135deg, #74EBD5, #ACB6E5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Quiz container styling */
+.container {
+    background: #fefefe;
+    width: 90%;
+    max-width: 600px;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: 0.3s;
+}
+
+/* Hover effect on container */
+.container:hover {
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+}
+
+/* Question styling */
+#question {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+/* Options button styling */
+.btn {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 18px;
+    background: #f0f0f0;
+    color: #333;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover and active effects */
+.btn:hover {
+    background: #74EBD5;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+/* Correct and incorrect answer colors */
+.btn.correct {
+    background: #4CAF50;
+    color: white;
+    border: 2px solid #3d8b40;
+}
+
+.btn.incorrect {
+    background: #FF6347;
+    color: white;
+    border: 2px solid #d73c2c;
+}
+
+/* Next button styling */
+#next-btn {
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover effect on next button */
+#next-btn:hover {
+    background: #0056b3;
+    transform: scale(1.05);
+}
+
+/* Disable the button when not needed */
+#next-btn:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+}
+
+/* Media Query for responsiveness */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        padding: 30px;
+    }
+}
